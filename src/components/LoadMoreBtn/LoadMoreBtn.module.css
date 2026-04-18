@@ -1,0 +1,19 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  padding: 16px;
+}
+
+.button {
+  padding: 12px 24px;
+  background-color: #4fa94d;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #3d8b3d;
+}
